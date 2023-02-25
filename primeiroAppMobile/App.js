@@ -37,7 +37,7 @@ class App extends Component{
       <Image
           source={{ uri: img }}
           style={{borderRadius: 40, width: 200, height: 200,   
-          marginTop: 0,
+          marginTop: 20,
           marginRight: 'auto',
           marginBottom: 0,
           marginLeft: 'auto'
